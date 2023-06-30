@@ -121,6 +121,11 @@ db.getSiblingDB("db01").test01.aggregate( [
 
 
 
+```
+대소문자의 경우 double quatation을 쓰면 해결된다고 하는데 테스트는 해보지 않았음
+
+```
+
 
 
 
